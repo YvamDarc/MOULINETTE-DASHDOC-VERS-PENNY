@@ -1,0 +1,9 @@
+Validation du 29/10/2026
+6 tests automatiques réussis.
+Interface Streamlit testée : accueil, chargement ZIP, blocage auxiliaire partagé, confirmation puis génération.
+Source fournie : CSV et FEC testés indépendamment.
+210 lignes conservées ; 69 écritures équilibrées ; 69 PDF identiques aux originaux.
+Total débit = total crédit = 78 294,18 EUR.
+Pas de test réalisé dans le dossier Pennylane.
+
+Mise à jour libellés : CSV et FEC testés, les 210 lignes portent exactement le nom client attendu pour la pièce, y compris TVA et produits.
